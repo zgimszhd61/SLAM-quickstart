@@ -45,3 +45,34 @@ Citations:
 [18] https://blog.csdn.net/Cai_deLong/article/details/108465850
 [19] https://blog.csdn.net/Robot_Starscream/article/details/83314385
 [20] https://www.windenet.com/article/detail/44.html
+
+
+---
+
+GitHub上有多个开源的SLAM算法仓库，以下是一些例子：
+
+- 《自动驾驶中的SLAM技术》对应开源代码：这个仓库提供了书籍《自动驾驶中的SLAM技术》中提到的源代码，包括2D激光SLAM中的常见算法如扫描匹配、似然场、子地图、2D回环检测，以及3D激光建图的算法如ICP、变种ICP、NDT等[1].
+
+- slam_lib：这是一个SLAM算法库，包含多种开源算法，由Richard-coder维护[2].
+
+- GitHub上优秀的开源SLAM repo：这些博客文章列出了作者关注的一些优秀的开源SLAM仓库，包括PC端、移动端的SLAM系统以及一些高质量的教程[3][4].
+
+- 自己动手做一台SLAM导航机器人：这个仓库同步存放了知乎专栏《自己动手做一台SLAM导航机器人》发布的系列文章的PDF版本和源代码，基于代号为“miiboo”的机器人项目[5].
+
+- 3D-SLAM-Multiple-robot-platforms：这个仓库包含了多平台搭建SLAM系统的内容，包括轮式底盘、四足机器人、无人机、无人船、轮腿式机器人等，复现3D-SLAM开源算法[6].
+
+- 83项最新开源视觉SLAM方案：这个社区文章整理了作者的GitHub仓库，包括开源SLAM方案和近期论文[7].
+
+- Awesome-VSLAM-Research：这个仓库包含了经典SLAM算法的开源工程，科研工具，以及SLAM应用和企业相关信息[8].
+
+这些仓库为研究者和开发者提供了丰富的资源，可以用来学习、研究和开发SLAM相关的项目。
+
+Citations:
+[1] https://github.com/gaoxiang12/slam_in_autonomous_driving
+[2] https://github.com/Richard-coder/slam_lib
+[3] https://blog.csdn.net/Night___Raid/article/details/104841450
+[4] https://blog.csdn.net/cxsydjn/article/details/79515578
+[5] https://github.com/xiihoo/DIY_A_SLAM_Navigation_Robot
+[6] https://github.com/kahowang/3D-SLAM-Multiple-robot-platforms
+[7] https://www.cvmart.net/community/detail/1710
+[8] https://github.com/lishuwei0424/Awesome-VSLAM-Research/blob/master/README.md
